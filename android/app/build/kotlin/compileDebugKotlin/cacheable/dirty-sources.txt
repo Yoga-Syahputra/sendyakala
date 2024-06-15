@@ -1,0 +1,1 @@
+D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\src\main\kotlin\com\example\sendyakala\MainActivity.kt

@@ -1,0 +1,17 @@
+com.example.sendyakala.app-core-1.6.0-0 C:\Users\YOGA\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+com.example.sendyakala.app-jetified-window-1.0.0-beta04-1 C:\Users\YOGA\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+com.example.sendyakala.app-jetified-window-java-1.0.0-beta04-2 C:\Users\YOGA\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.sendyakala.app-jetified-annotation-experimental-1.1.0-3 C:\Users\YOGA\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.sendyakala.app-jetified-firebase-common-21.0.0-4 C:\Users\YOGA\.gradle\caches\transforms-3\a1e9b7e171ebe989e7c2215846d4f6bc\transformed\jetified-firebase-common-21.0.0\res
+com.example.sendyakala.app-jetified-play-services-basement-18.3.0-5 C:\Users\YOGA\.gradle\caches\transforms-3\e76aed36a087f5f71489bfa0e357771e\transformed\jetified-play-services-basement-18.3.0\res
+com.example.sendyakala.app-packaged_res-6 C:\Users\YOGA\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.0\android\build\intermediates\packaged_res\debug
+com.example.sendyakala.app-packaged_res-7 C:\Users\YOGA\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.3\android\build\intermediates\packaged_res\debug
+com.example.sendyakala.app-google-services-8 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\generated\res\google-services\debug
+com.example.sendyakala.app-pngs-9 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\generated\res\pngs\debug
+com.example.sendyakala.app-resValues-10 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\generated\res\resValues\debug
+com.example.sendyakala.app-rs-11 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\generated\res\rs\debug
+com.example.sendyakala.app-mergeDebugResources-12 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.sendyakala.app-mergeDebugResources-13 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.sendyakala.app-merged_res-14 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\build\intermediates\merged_res\debug
+com.example.sendyakala.app-debug-15 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\src\debug\res
+com.example.sendyakala.app-main-16 D:\College\LETS 6O\Pemrograman Perangkat Mobile\sendyakala\android\app\src\main\res

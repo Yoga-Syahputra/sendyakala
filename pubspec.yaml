@@ -6,21 +6,24 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
-  http: ^1.2.1
+  http: ^1.2.1  # Update to the latest version
   shared_preferences: ^2.0.13
+
+  # Add firebase_core dependency
+  firebase_core: ^3.1.0  # Replace with the latest version
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
   uses-material-design: true

@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';  // Import the Firebase core package
+import 'firebase_options.dart';  // Import the generated Firebase options
 import 'package:sendyakala/screens/splash_screen.dart';  // Import the SplashScreen
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const SendyakalaApp());
 }
 

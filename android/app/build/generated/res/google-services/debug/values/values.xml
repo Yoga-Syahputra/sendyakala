@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">470787015862</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYVY3zZhm-ny6QiRnOWD6pS9tgv1neNgk</string>
+    <string name="google_app_id" translatable="false">1:470787015862:android:81d0d134e21bb0fbdfd217</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYVY3zZhm-ny6QiRnOWD6pS9tgv1neNgk</string>
+    <string name="google_storage_bucket" translatable="false">sendyakala-e4fe8.appspot.com</string>
+    <string name="project_id" translatable="false">sendyakala-e4fe8</string>
+</resources>
